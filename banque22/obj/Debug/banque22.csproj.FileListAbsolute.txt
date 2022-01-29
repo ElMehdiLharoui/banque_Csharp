@@ -11,3 +11,17 @@ C:\Users\ElMehdi\source\repos\banque22\obj\Debug\banque22.csproj.CoreCompileInpu
 C:\Users\ElMehdi\source\repos\banque22\obj\Debug\banque22.csproj.CopyComplete
 C:\Users\ElMehdi\source\repos\banque22\obj\Debug\banque22.exe
 C:\Users\ElMehdi\source\repos\banque22\obj\Debug\banque22.pdb
+C:\Users\ElMehdi\source\repos\banqueee\banque22\bin\Debug\banque22.exe.config
+C:\Users\ElMehdi\source\repos\banqueee\banque22\bin\Debug\banque22.exe
+C:\Users\ElMehdi\source\repos\banqueee\banque22\bin\Debug\banque22.pdb
+C:\Users\ElMehdi\source\repos\banqueee\banque22\bin\Debug\back.dll
+C:\Users\ElMehdi\source\repos\banqueee\banque22\bin\Debug\back.pdb
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.csprojAssemblyReference.cache
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.Form1.resources
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.Form2.resources
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.Properties.Resources.resources
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.csproj.GenerateResource.cache
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.csproj.CoreCompileInputs.cache
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.csproj.CopyComplete
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.exe
+C:\Users\ElMehdi\source\repos\banqueee\banque22\obj\Debug\banque22.pdb

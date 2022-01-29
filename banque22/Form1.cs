@@ -81,11 +81,13 @@ namespace banque22
             {
                 if (client.auth(textBox1.Text, textBox2.Text))
                 {
-                    dataGridView1.DataSource = client.comptes;
+                    /*dataGridView1.DataSource = client.comptes;
 
-                    MessageBox.Show("Loged");
+                    MessageBox.Show("Loged");*/
+                    new Form2(client.id).Show();
                     break;
                 }
+                MessageBox.Show("wrong information");
             }
         }
 

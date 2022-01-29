@@ -4,3 +4,9 @@ C:\Users\ElMehdi\source\repos\back\obj\Debug\back.csprojAssemblyReference.cache
 C:\Users\ElMehdi\source\repos\back\obj\Debug\back.csproj.CoreCompileInputs.cache
 C:\Users\ElMehdi\source\repos\back\obj\Debug\back.dll
 C:\Users\ElMehdi\source\repos\back\obj\Debug\back.pdb
+C:\Users\ElMehdi\source\repos\banqueee\back\bin\Debug\back.dll
+C:\Users\ElMehdi\source\repos\banqueee\back\bin\Debug\back.pdb
+C:\Users\ElMehdi\source\repos\banqueee\back\obj\Debug\back.csprojAssemblyReference.cache
+C:\Users\ElMehdi\source\repos\banqueee\back\obj\Debug\back.csproj.CoreCompileInputs.cache
+C:\Users\ElMehdi\source\repos\banqueee\back\obj\Debug\back.dll
+C:\Users\ElMehdi\source\repos\banqueee\back\obj\Debug\back.pdb
